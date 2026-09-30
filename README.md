@@ -32,7 +32,7 @@ My approach is methodical: understand how a system is designed to work, identify
 <tr>
 <td width="33%" valign="top">
 
-### ☁️ Cloud Security
+### Cloud Security
 **AWS**
 
 - IAM misconfigurations
@@ -43,7 +43,7 @@ My approach is methodical: understand how a system is designed to work, identify
 </td>
 <td width="33%" valign="top">
 
-### 🌐 Network Pentesting
+### Network Pentesting
 **Internal & External**
 
 - Reconnaissance & enumeration
@@ -54,7 +54,7 @@ My approach is methodical: understand how a system is designed to work, identify
 </td>
 <td width="33%" valign="top">
 
-### 🧬 Binary Exploitation
+### Binary Exploitation
 **CTF / Pwn**
 
 - Stack overflows
