@@ -116,17 +116,6 @@ My approach is methodical: understand how a system is designed to work, identify
 
 <br/>
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=besh0x79&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B1220&title_color=5EEAD4&text_color=C9D1D9&icon_color=14B8A6&ring_color=14B8A6" alt="Stats" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=besh0x79&hide_border=true&layout=compact&bg_color=0B1220&title_color=5EEAD4&text_color=C9D1D9" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=besh0x79&hide_border=true&background=0B1220&ring=14B8A6&fire=14B8A6&currStreakNum=5EEAD4&currStreakLabel=5EEAD4&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="Streak" />
-
-</div>
-
 <br/>
 
 <div align="center">
