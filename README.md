@@ -78,29 +78,8 @@ My approach is methodical: understand how a system is designed to work, identify
 
 <br/>
 
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,aws,azure,linux&theme=dark&perline=8" alt="Tech stack" />
-
-</div>
-
 <br/>
 
-## Security Toolbox
-
-<div align="center">
-
-<img src="assets/tools/kali.svg" width="56" height="56" title="Kali Linux" alt="Kali Linux" />
-<img src="assets/tools/nmap.svg" width="56" height="56" title="Nmap" alt="Nmap" />
-<img src="assets/tools/wireshark.svg" width="56" height="56" title="Wireshark" alt="Wireshark" />
-<img src="assets/tools/burpsuite.svg" width="56" height="56" title="Burp Suite" alt="Burp Suite" />
-<img src="assets/tools/metasploit.svg" width="56" height="56" title="Metasploit" alt="Metasploit" />
-<img src="assets/tools/gdb.svg" width="56" height="56" title="GDB" alt="GDB" />
-<img src="assets/tools/owasp.svg" width="56" height="56" title="OWASP" alt="OWASP" />
-
-</div>
 
 <br/>
 
