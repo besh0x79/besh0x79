@@ -133,8 +133,6 @@ My approach is methodical: understand how a system is designed to work, identify
 
 *"Human nature has no patch."*
 
-<img src="https://komarev.com/ghpvc/?username=besh0x79&color=0F766E&style=flat-square&label=Profile+views" alt="Profile views" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:0B1220&height=90&section=footer" width="100%" alt="footer" />
 
 </div>
